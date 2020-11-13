@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! Thank you for coming here. My name is Aashish Kafle. I am first year graduate student in the Physics and Astroonomy department at Rice University, Houston TX. Originally from Kathmandu, Nepal, I have lived in Alabama for four years and am currently in Houston TX.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### Why this blog
+
+I wanted to have a blog to express my views and opinions about different matters. But as we grow, we change and our opinions change. So another reason for this blog is documenting the change that I go though over the years I live. And, also maybe give an outlook of me as a person and all that I value. 
