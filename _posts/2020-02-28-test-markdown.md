@@ -2,7 +2,7 @@
 layout: post
 title: Past and Future
 subtitle: this is another test
-cover-img: assets/img/rhododendron.jpg
+cover-img: /assets/img/rhododendron.jpg
 tags: [test]
 
 
