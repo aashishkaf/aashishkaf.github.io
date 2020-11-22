@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Present
+title: Present
 subtitle: test post
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
