@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Resources
+title: Useful Resources for Grad Students
 subtitle: For anybody that has anything to do with Maths/Physics
 cover-img: /assets/img/books.jpg
 thumbnail-img: /assets/img/books2.jpg
@@ -10,6 +10,7 @@ tags: [Resources]
 
 Quoting Newton: "If I have seen further it is by standing on the shoulders of Giants.". Here is a list of useful resources from giants or otherwise, that has potential to help
 graduate students or any students in general to see further. 
+Well, tbh I'm not in a position to give my fellow grad studnts advice. I just wanted to compile a list of useful advices primarily for myself!
 
 * [Sean's Unsolicited Advice](https://www.preposterousuniverse.com/blog/2007/09/26/unsolicited-advice-iv-how-to-be-a-good-graduate-student/)
 * [Terry's Career Advice](https://terrytao.wordpress.com/career-advice/)
