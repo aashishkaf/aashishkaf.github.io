@@ -11,7 +11,7 @@ tags: [Resources]
 Quoting Newton: "If I have seen further it is by standing on the shoulders of Giants.". Here is a list of useful resources from giants or otherwise, that has potential to help
 graduate students or any students in general to see further. 
 
-* [Unsolicited Advice](https://www.preposterousuniverse.com/blog/2007/09/26/unsolicited-advice-iv-how-to-be-a-good-graduate-student/)
+* [Sean's Unsolicited Advice](https://www.preposterousuniverse.com/blog/2007/09/26/unsolicited-advice-iv-how-to-be-a-good-graduate-student/)
 * [Terry's Career Advice](https://terrytao.wordpress.com/career-advice/)
 * [John Baez's Advice for the Young Scientist](https://math.ucr.edu/home/baez/advice.html)
 * [How to Learn Math and Physics](https://math.ucr.edu/home/baez/books.html#introduction)
