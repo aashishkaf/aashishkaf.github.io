@@ -6,6 +6,7 @@ subtitle:Who am I?
 
 Hello! Thank you for coming here. My name is Aashish Kafle. I am first year graduate student in the Physics and Astroonomy department at Rice University, Houston TX. Originally from Kathmandu, Nepal, I have lived in Alabama for four years and am currently in Houston TX.
 
+Apart from Physics, I enjoy hiking (more of a mindless strolling in the wild), reading continental philosophy authors, listening to music ranging from Hard Rock to Qawwali, and a lot of Folk music from all over the world, playing terrible guitar (I'm pretty good at this actually!), playing Ping-Pong...
 
 
 
